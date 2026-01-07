@@ -4,7 +4,7 @@ export const AddTask = () => {
   return (
     <div>
       <h1>Új feladat hozzáadása</h1>
-      <h3>asd</h3>
+      <h2>gomb helye</h2>
     </div>
   )
 }
