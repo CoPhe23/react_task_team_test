@@ -1,5 +1,5 @@
 import './App.css'
-import { AddTask } from './components/AddTaSK.JSX'
+import { AddTask } from './components/AddTask.jsx'
 
 function App() {
 
